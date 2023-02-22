@@ -1,5 +1,11 @@
 # propr
 
+## 1.0.1
+
+### Patch Changes
+
+- a668ee7: Added build output
+
 ## 1.0.0
 
 ### Major Changes
