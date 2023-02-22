@@ -27,5 +27,9 @@
   },
   "volta": {
     "node": "18.14.2"
+  },
+  "dependencies": {
+    "murmurhash": "^2.0.1",
+    "ofetch": "^1.0.1"
   }
 }
