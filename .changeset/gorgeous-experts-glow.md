@@ -1,6 +1,8 @@
-# propr
+---
+"propr": major
+---
 
-A proper way to interface with the Prepr API. This package provides an easy-to-use interface for fetching data from Prepr and supports GraphQL queries.
+# Initial release
 
 ## Installation
 
