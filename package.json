@@ -2,6 +2,7 @@
   "name": "propr",
   "version": "1.0.0",
   "private": false,
+  "access": "public",
   "description": "A proper way to interface with prepr.io",
   "keywords": [
     "prepr",
